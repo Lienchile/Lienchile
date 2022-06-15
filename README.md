@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lienchile
 - 👀 I’m interested in Data Analytics and Data Sciences
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on PowerBI, SAP analytics Cloud, Python, DAX, everything!
-- 📫 How to reach me ...
+- 🌱 I’m currently to upskill my coding skill
+- 💞️ I’m looking for an intersting job in the Data Field
+- 📫 Reach me through Linkedin I will be happy to give you more informations
 
 <!---
 Lienchile/Lienchile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
